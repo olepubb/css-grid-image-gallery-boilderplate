@@ -1,6 +1,9 @@
 # css-grid-image-gallery-boilderplate
 
  An express web app that dynamically generates css grid image galleries.
+ <p align="center">
+  <img src="https://media.giphy.com/media/TakJsFWjxo0lKpfhzj/giphy.gif">
+ </p>
  
  ### What dose it mean?
  This is an express app that serves html web pages that contain image galleries using the grid system in css.
