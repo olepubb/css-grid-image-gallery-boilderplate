@@ -57,6 +57,5 @@ app.use(express.static(__dirname + '/yourCustomDirectory'))
 ### If you want to host the app on a server.
 This is a greate [guide on how to deploy NodeJS apps](https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896).
 
-### Video explanation and demo.
-[Link.](https://www.youtube.com/watch?v=GQseyjukrCI)
+
 
